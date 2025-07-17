@@ -30,7 +30,7 @@ export default function Hero() {
             </div>
             <div style={{ width: '10vw' }} />
             <div style={{ maxWidth: '40vw', fontSize: '20px' }}>
-                <ShinyText text="I'm a rising junior at IIT Delhi, pursuing a B.Tech in Engineering Physics with a minor in Computer Science. My skillset is uniquely diverse — I have varying experience with everything from HFT relevant Low Level Programming to Machine Learning to Cybersecurity; Webdev to Design; Math, Physics, and more." disabled={false} speed={3} className='custom-class' />
+                <ShinyText text="I'm a rising junior at IIT Delhi, pursuing a B.Tech in Engineering Physics with a minor in Computer Science. My skillset is uniquely diverse — I have varying experience with everything from low level and competitive programming to machine learning to cybersecurity; webdev to design; math, physics, and more." disabled={false} speed={3} className='custom-class' />
 
                 <div style={{ height: '2em' }} />
                 <ShinyText text="This page showcases some of the projects and experiences I've gathered along the way." disabled={false} speed={3} className='custom-class' />
