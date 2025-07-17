@@ -1,8 +1,7 @@
 # Portfolio
-An "about me" page i made. feel free to reuse as a template
-deployed here for now: https://portfolio-manogya.netlify.app/
-should be on https://manogyasingh.site in a few hours
+An "about me" page i made. feel free to reuse as a template.
 
+preview on https://manogyasingh.site
 
 ## stack
 - [Next.js](https://nextjs.org/) - React Framework
