@@ -1,0 +1,312 @@
+[
+  {
+    "category": "Programming Languages & Core Tools",
+    "iconName": "Code",
+    "skills": [
+      {
+        "name": "C++",
+        "experience": [
+          "Professional Experience: Systems Engineering Trainee at Jump Trading - Intensive training in C++ for HFT",
+          "Professional Experience: Systems Engineering Trainee at Jump Trading - Collaborated on C++ projects focusing on code optimisation, concurrency, and performance-critical systems",
+          "Project: Parallel Computing Project at Jump Trading - Utilized C++ for developing a high-throughput, low-latency financial data processing system with parallelization, cache optimization, and lock-free algorithms"
+        ]
+      },
+      {
+        "name": "Python",
+        "experience": [
+          "Project: Erudite - Implemented backend and agentic architecture using FastAPI",
+          "Project: AI Résumé Analyser - Used for NLP tasks including sentence embedding and context-based Q&A with HuggingFace",
+          "Achievement: Qube Data Challenge (5th) - Applied for feature extraction based stock prediction"
+        ]
+      },
+      {
+        "name": "Lua",
+        "experience": [
+          "Project: Robotic Arm Control System - Implemented control scripts and object manipulation logic"
+        ]
+      },
+      {
+        "name": "Java",
+        "experience": [
+          "Course: COL106 - Data Structures and Algorithms"
+        ]
+      },
+      {
+        "name": "Data Structures & Algorithms",
+        "experience": [
+          "Course: COL106 - Data Structures and Algorithms (Java)",
+          "Professional Experience: Systems Engineering Trainee at Jump Trading - Applied in C++ systems programming",
+          "Project: Parallel Computing Project at Jump Trading - Applied in C++ for HPC systems",
+          "Project: Erudite - Applied in Python backend development"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Software & Systems Engineering",
+    "iconName": "Terminal",
+    "skills": [
+      {
+        "name": "Systems Programming",
+        "experience": [
+          "Professional Experience: Systems Engineering Trainee at Jump Trading - Intensive training and project experience in C++ systems programming"
+        ]
+      },
+      {
+        "name": "High-Performance Computing (HPC)",
+        "experience": [
+          "Project: Parallel Computing Project at Jump Trading - Implementing a high-throughput, low-latency system for financial market data",
+          "Professional Experience: Systems Engineering Trainee at Jump Trading - Gained experience with performance-critical systems"
+        ]
+      },
+      {
+        "name": "Concurrency & Parallelization",
+        "experience": [
+          "Professional Experience: Systems Engineering Trainee at Jump Trading - Applied multi-threading, parallelization techniques, and lock-free algorithms in C++ projects",
+          "Project: Parallel Computing Project at Jump Trading - Focused on parallelization techniques and lock-free algorithms in C++"
+        ]
+      },
+      {
+        "name": "Backend Development",
+        "experience": [
+          "Project: Erudite - Implemented backend in Python (FastAPI) featuring RESTful API, authentication, and user flow management"
+        ]
+      },
+      {
+        "name": "Full Stack Web Development",
+        "experience": [
+          "PoR: Executive, DevClub - Solely designed, coded, and deployed devclub.in (Official DevClub IITD website)",
+          "PoR: Publicity Executive, PhySoc IITD - Contributed to development of PhySoc IITD website and alumni portal",
+          "Project: Erudite - Developed platform with FastAPI backend and user interface components",
+          "Project: Automatic Stock Exchange - Developed platform for orderbook management and real-time trading data visualization"
+        ]
+      },
+      {
+        "name": "API Design (RESTful)",
+        "experience": [
+          "Project: Erudite - Implemented RESTful APIs using FastAPI for seamless frontend-backend interaction"
+        ]
+      },
+      {
+        "name": "Software Engineering Best Practices",
+        "experience": [
+          "Professional Experience: Systems Engineering Trainee at Jump Trading - Training and application in High-Frequency Trading context, focusing on robust and efficient code"
+        ]
+      },
+      {
+        "name": "Code Optimisation",
+        "experience": [
+          "Professional Experience: Systems Engineering Trainee at Jump Trading - Focused on cache optimization, performance tuning, and efficient algorithm design in C++ projects",
+          "Project: Parallel Computing Project at Jump Trading - Applied cache optimization for financial data processing"
+        ]
+      },
+      {
+        "name": "Version Control (Git/GitHub)",
+        "experience": [
+          "Project: Robotic Arm Control System - Managed codebase on GitHub",
+          "Project: Erudite - Managed codebase on GitHub",
+          "Project: Automatic Stock Exchange - Managed codebase on GitHub",
+          "Project: AI Résumé Analyser - Managed codebase on GitHub",
+          "PoR: Executive, DevClub - Managed devclub.in website codebase on GitHub",
+          "Achievement: Qube Data Challenge - Managed project codebase on GitHub"
+        ]
+      },
+      {
+        "name": "Network & Infrastructure Management",
+        "experience": [
+          "PoR: House Technical Secretary, Karakoram Hostel (Upcoming) - Will be responsible for hostel’s network and technical infrastructure"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "AI & Machine Learning",
+    "iconName": "Brain",
+    "skills": [
+      {
+        "name": "Natural Language Processing (NLP)",
+        "experience": [
+          "Project: AI Résumé Analyser - Implemented sentence embedding (mxbai-embed-large-v) & quantified retrieval",
+          "Project: AI Résumé Analyser - Implemented context-based Q&A (HuggingFace/roberta-base-squad2)",
+          "Project: Robotic Arm Control System - Developed an AI-powered voice interface using Gemini Flash 2.0"
+        ]
+      },
+      {
+        "name": "Agentic AI & RAG (Retrieval Augmented Generation)",
+        "experience": [
+          "Project: Erudite - Developed agentic architecture and dynamic RAG over diverse data sources (research papers, news, social media)",
+          "Extracurricular: Inter IIT Tech Meet - Built and presented an agentic knowledgebase management tool using dynamic RAG"
+        ]
+      },
+      {
+        "name": "Machine Learning (General)",
+        "experience": [
+          "Achievement: Qube Data Challenge (5th) - Applied feature extraction for stock prediction",
+          "Achievement: INNOV8 Hackathon (1st) - Secured first position in an AI-based team hackathon"
+        ]
+      },
+      {
+        "name": "AI Models & Frameworks",
+        "experience": [
+          "Project: AI Résumé Analyser - Utilized HuggingFace pipelines (deepset/roberta-base-squad2)",
+          "Project: AI Résumé Analyser - Utilized mxbai-embed-large-v model for sentence embedding",
+          "Project: Robotic Arm Control System - Utilized Gemini Flash 2.0 for AI voice interface"
+        ]
+      },
+      {
+        "name": "Data Visualization",
+        "experience": [
+          "Project: Automatic Stock Exchange - Implemented real-time data visualizations for key trading metrics"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Cybersecurity",
+    "iconName": "Binary",
+    "skills": [
+      {
+        "name": "Red Team Operations & CTFs",
+        "experience": [
+          "Achievement: Key of Krypton CTF (1st) - IITD Capture The Flag competition",
+          "Achievement: UIUCTF (51st rank) - Global Capture The Flag competition",
+          "Achievement: HackIITK CTF (8th rank) - Pan India Capture The Flag competition",
+          "PoR: Executive, DevClub - Organised CTF events"
+        ]
+      },
+      {
+        "name": "Reverse Engineering & Penetration Testing",
+        "experience": [
+          "Achievement: Key of Krypton CTF (1st) - Applied skills in CTF challenges",
+          "Achievement: UIUCTF (51st rank) - Applied skills in global CTF challenges",
+          "Achievement: HackIITK CTF (8th rank) - Applied skills in national CTF challenges"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Engineering & Robotics",
+    "iconName": "Atom",
+    "skills": [
+      {
+        "name": "Robotics & Control Systems",
+        "experience": [
+          "Project: Robotic Arm Control System - Led development for Inter Hostel Tech GC, utilizing CoppeliaSim",
+          "Project: Robotic Arm Control System - Implemented Lua control scripts, object manipulation, inverse kinematics, and AI voice interface"
+        ]
+      },
+      {
+        "name": "3D Modelling & Simulation",
+        "experience": [
+          "Project: Robotic Arm Control System - Created and utilized Robotic Arm Simulation in CoppeliaSim for development and testing",
+          "Course: MCP101 - Engineering Visualisation and CAD"
+        ]
+      },
+      {
+        "name": "Electronics (Digital & Practical)",
+        "experience": [
+          "Course: ELP100 - Practical Electronics (Perfect A grade)",
+          "Course: ELL201 - Digital Electronics"
+        ]
+      },
+      {
+        "name": "Physics & Astronomy",
+        "experience": [
+          "Achievement: NSEP (Top 1% Nationally) - National Standard Examination in Physics",
+          "Achievement: NSEA (Top 1% Nationally) - National Standard Examination in Astronomy",
+          "Achievement: INAO (National Top 40) - Selected for OCSC for International Olympiad in Astronomy and Astrophysics",
+          "PoR: Technical Coordinator, Physics and Astronomy Club (Upcoming) - Will lead technical initiatives",
+          "PoR: Publicity Executive, PhySoc IITD - Led outreach for Physics Department Society"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Quantitative Finance & Analytical Skills",
+    "iconName": "Flask",
+    "skills": [
+      {
+        "name": "High-Frequency Trading (HFT) Concepts",
+        "experience": [
+          "Professional Experience: Systems Engineering Trainee at Jump Trading - Underwent training in HFT concepts and software engineering best practices for HFT"
+        ]
+      },
+      {
+        "name": "Financial Data Processing",
+        "experience": [
+          "Project: Parallel Computing Project at Jump Trading - Optimized a high-throughput, low-latency system for financial market data"
+        ]
+      },
+      {
+        "name": "Quantitative Trading Systems",
+        "experience": [
+          "Project: Automatic Stock Exchange - Implemented an automatic orderbook for matching bids and offers",
+          "Achievement: Qube Data Challenge (5th) - Developed a feature extraction based stock prediction model"
+        ]
+      },
+      {
+        "name": "Economics & Game Theory",
+        "experience": [
+          "Course: HUL212 - Microeconomics and Game Theory (Perfect A grade)"
+        ]
+      },
+      {
+        "name": "Analytical Problem Solving & Research",
+        "experience": [
+          "Achievement: Mimamsa (Zonal Champion) - Excelled in team-based research-oriented science/math competition",
+          "Achievement: KVPY (AIR 186) - Awarded fellowship based on research aptitude",
+          "Achievement: NCSC (National Finalist) - Represented Delhi in National Children's Science Congress",
+          "Achievement: JEE Advanced (AIR 2384) - Demonstrated strong analytical skills in national competitive exam",
+          "PoR: Research Executive, ARIES IIT Delhi - Contributed to organising technical research discussions",
+          "Extracurricular: Multiple quizzing achievements (Inter IIT, Mastermind, Freshers Quiz)"
+        ]
+      }
+    ]
+  },
+  {
+    "category": "Leadership & Project Management",
+    "iconName": "Brain",
+    "skills": [
+      {
+        "name": "Team Leadership & Mentorship",
+        "experience": [
+          "Project: Robotic Arm Control System - Led a team of 4 members for Inter Hostel Tech GC",
+          "PoR: Technical Coordinator, PAC (Upcoming) - Will lead the technical wing",
+          "PoR: Coordinator, DevClub IITD (Upcoming) - Will mentor executives and new recruits, leading technical projects",
+          "PoR: House Technical Secretary, Karakoram Hostel (Upcoming) - Will lead the hostel’s technical team"
+        ]
+      },
+      {
+        "name": "Project Management & Execution",
+        "experience": [
+          "Project: Erudite - Contributed to development and delivery for Inter IIT Tech Meet",
+          "PoR: Executive, DevClub - Solely designed, coded, and deployed devclub.in website",
+          "Extracurricular: Inter IIT Tech Meet - Built and presented an agentic knowledgebase management tool",
+          "Project: Parallel Computing Project at Jump Trading - Collaborated on a performance-critical systems project",
+          "Project: Robotic Arm Control System - Managed project from conception through implementation and presentation"
+        ]
+      },
+      {
+        "name": "Event Organization & Coordination",
+        "experience": [
+          "PoR: Executive, DevClub - Organised hackathons (Speedathon) and CTFs",
+          "PoR: Research Executive, ARIES IIT Delhi - Contributed to organising reading sessions and technical discussions",
+          "PoR: House Representative for Quizzing Club - Conducted and coordinated hostel-wide and inter-hostel quizzing events"
+        ]
+      },
+      {
+        "name": "Communication & Presentation",
+        "experience": [
+          "Extracurricular: Inter IIT Tech Meet - Presented technical project (agentic knowledgebase tool) to a large audience",
+          "PoR: Publicity Executive, PhySoc IITD - Led outreach and publicity efforts for the society"
+        ]
+      },
+      {
+        "name": "Problem Design",
+        "experience": [
+          "PoR: Executive, DevClub - Designed problem statements for Speedathon, DevClub's annual flagship hackathon"
+        ]
+      }
+    ]
+  }
+]

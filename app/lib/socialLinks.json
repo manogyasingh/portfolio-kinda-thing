@@ -1,0 +1,22 @@
+[
+  {
+    "name": "GitHub",
+    "url": "https://github.com/manogyasingh",
+    "icon": "Github"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://linkedin.com/in/manogya-singh/",
+    "icon": "Linkedin"
+  },
+  {
+    "name": "X (Twitter)",
+    "url": "https://x.com/xtcntr",
+    "icon": "Twitter"
+  },
+  {
+    "name": "Email",
+    "url": "mailto:manogyasinghsuryansh@example.com",
+    "icon": "Mail"
+  }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "type": "internship",
+        "year": "May 2025 -- June 2025",
+        "title": "Systems Engineering Trainee",
+        "organization": "Jump Trading, Mumbai",
+        "description": "Underwent intensive training in C++, systems programming, and software engineering best practices for high-frequency trading. Collaborated on projects focused on code optimisation, concurrency, and performance-critical systems under mentorship from industry experts.",
+        "icon": "BookOpen",
+        "skills": []
+    },
+    {
+        "type": "por",
+        "year": "2025-26",
+        "title": "Technical Coordinator, Physics and Astronomy Club (PAC)",
+        "organization": "CAIC, IIT Delhi",
+        "description": "",
+        "icon": "BookOpen",
+        "skills": []
+    },
+    {
+        "type": "por",
+        "year": "2025-26",
+        "title": "Coordinator, DevClub IIT Delhi",
+        "organization": "Co-Curricular and Academic Interaction Council, IIT Delhi",
+        "description": "",
+        "icon": "BookOpen",
+        "skills": []
+    },
+    {
+        "type": "por",
+        "year": "2025-26",
+        "title": "House Technical Secretary, Karakoram Hostel",
+        "organization": "CAIC, IIT Delhi",
+        "description": "",
+        "icon": "BookOpen",
+        "skills": []
+    },
+    {
+        "type": "por",
+        "year": "2024-25",
+        "title": "Executive, DevClub IIT Delhi",
+        "organization": "Co-Curricular and Academic Interaction Council, IIT Delhi",
+        "description": "",
+        "icon": "BookOpen",
+        "skills": []
+    },
+    {
+        "type": "por",
+        "year": "2024-25",
+        "title": "Research Executive, ARIES IIT Delhi",
+        "organization": "Co-Curricular and Academic Interaction Council, IIT Delhi",
+        "description": "",
+        "icon": "BookOpen",
+        "skills": []
+    },
+    {
+        "type": "por",
+        "year": "2024-25",
+        "title": "House Representative for Quizzing Club",
+        "organization": "Board for Recreational and Creative Activities, IIT Delhi",
+        "description": "",
+        "icon": "BookOpen",
+        "skills": []
+    },
+    {
+        "type": "por",
+        "year": "2024-25",
+        "title": "Publicity Executive, PhySoc IIT Delhi",
+        "organization": "Co-Curricular and Academic Interaction Council, IIT Delhi",
+        "description": "",
+        "icon": "BookOpen",
+        "skills": []
+    }
+]
