@@ -55,7 +55,7 @@ export default function Hero() {
                     })}
                     <a
                         href="/resume_concise.pdf"
-                        download="Mano_Sriram_Resume.pdf"
+                        download="ManogyaSingh_Resume.pdf"
                         className="flex items-center gap-2 hover:text-white transition-colors duration-200 border border-gray-500 px-3 py-1.5 rounded-lg text-sm ml-2"
                     >
                         <FaDownload />
