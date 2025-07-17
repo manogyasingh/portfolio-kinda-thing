@@ -15,9 +15,10 @@ export default function Home() {
       </div>
       <Navbar />
       <Hero />
+      <div className="h-[100px] block md:hidden" />
       <Experiences />
       <Projects />
-      <Skills />
+      {/* <Skills /> */}
       <Footer />
     </main>
   );

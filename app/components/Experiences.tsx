@@ -61,36 +61,31 @@ export default function Experiences() {
                                         animateBy="words"
                                         direction="top"
 
-                                        className="text-base font-semibold text-zinc-300"
+                                        className="text-xl font-semibold text-zinc-200"
                                     />
                                     <BlurText
-                                        text={item.organization}
+                                        text={`${item.organization} • ${item.year}`}
                                         delay={30}
                                         animateBy="words"
                                         direction="top"
-
-                                        className="mt-1 text-xs text-zinc-400"
+                                        className="mt-1 text-sm text-zinc-300"
                                     />
-                                    <BlurText
-                                        text={item.year}
-                                        delay={30}
-                                        animateBy="words"
-                                        direction="top"
 
-                                        className="mt-1 text-xs text-zinc-500"
-                                    />
                                     <BlurText
                                         text={item.description}
                                         delay={30}
                                         animateBy="words"
                                         direction="top"
 
-                                        className="mt-2 text-sm text-zinc-400"
+                                        className="mt-2 text-base text-zinc-400"
                                     />
                                 </div>
                             </div>
                         );
                     })}
+
+                    {/* Gap between internships and education */}
+                    <div className="h-4" />
 
                     {/* Education */}
                     <div className="group relative flex items-start">
@@ -105,7 +100,7 @@ export default function Experiences() {
                                 animateBy="words"
                                 direction="top"
 
-                                className="text-base font-semibold text-zinc-300"
+                                className="text-xl font-semibold text-zinc-200"
                             />
                             <BlurText
                                 text={education.organization}
@@ -113,7 +108,7 @@ export default function Experiences() {
                                 animateBy="words"
                                 direction="top"
 
-                                className="mt-1 text-xs text-zinc-400"
+                                className="mt-1 text-sm text-zinc-300"
                             />
                             <BlurText
                                 text={education.year}
@@ -121,9 +116,9 @@ export default function Experiences() {
                                 animateBy="words"
                                 direction="top"
 
-                                className="mt-1 text-xs text-zinc-500"
+                                className="mt-1 text-sm text-zinc-400"
                             />
-                            
+
 
                             {/* PoRs */}
                             <div className="mt-4">
@@ -133,7 +128,7 @@ export default function Experiences() {
                                     animateBy="words"
                                     direction="top"
 
-                                    className="text-lg font-semibold text-zinc-200"
+                                    className="text-xl font-semibold text-zinc-200"
                                 />
                                 <div className="relative mt-4 grid gap-x-8">
                                     <div className="absolute left-4 top-0 hidden w-px bg-zinc-700 md:block" />
@@ -147,23 +142,15 @@ export default function Experiences() {
                                                     animateBy="words"
                                                     direction="top"
 
-                                                    className="text-base font-semibold text-zinc-300"
+                                                    className="text-lg font-semibold text-zinc-300"
                                                 />
                                                 <BlurText
-                                                    text={por.organization}
+                                                    text={`${por.organization} • ${por.year}`}
                                                     delay={30}
                                                     animateBy="words"
                                                     direction="top"
 
-                                                    className="mt-1 text-xs text-zinc-400"
-                                                />
-                                                <BlurText
-                                                    text={por.year}
-                                                    delay={30}
-                                                    animateBy="words"
-                                                    direction="top"
-
-                                                    className="mt-1 text-xs text-zinc-500"
+                                                    className="mt-1 text-sm text-zinc-400"
                                                 />
                                             </div>
                                         </div>
